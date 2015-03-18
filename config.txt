@@ -1,0 +1,1 @@
+mfcc: MFCC blockSize=1024 stepSize=512
